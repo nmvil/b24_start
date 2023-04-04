@@ -1,0 +1,4 @@
+aiohttp
+asyncio
+fast_bitrix24
+simple_term_menu
